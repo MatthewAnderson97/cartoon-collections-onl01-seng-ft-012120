@@ -7,9 +7,10 @@ def roll_call_dwarves(array)# code an argument here
   end#Your code here
 end
 planteer_calls = ["earth", "wind", "fire", "water", "heart"]
-def summon_captain_planet(planteer_calls)# code an argument here
+def summon_captain_planet(array)# code an argument here
   i = 0
-  while i < planteer_calls.length
+  new_array = []
+  while i < array.length
   ."#{planteer_calls.upcase} # Your code here
 end
 
