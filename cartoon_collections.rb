@@ -19,7 +19,7 @@ end
 
 def long_planeteer_calls(array)# code an argument here
   i = 0
-  while#Your code here
+  if #Your code here
 end
 
 def find_the_cheese# code an argument here
